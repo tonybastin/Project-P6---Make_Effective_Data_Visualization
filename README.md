@@ -1,6 +1,6 @@
 # Summary
 
-A data visualization of survivability of passenger's in the Titanic dataset based on their class of travel, gender and age is visualized in this project. The html files used for this visualization is [index.html]() and the data file is [MyData.csv]()
+A data visualization of survivability of passenger's in the Titanic dataset based on their class of travel, gender and age is visualized in this project. The html files used for this visualization is [index.html](https://github.com/tonybastin/Project-P6---Make_Effective_Data_Visualization/blob/master/index.html) and the data file is [MyData.csv](https://github.com/tonybastin/Project-P6---Make_Effective_Data_Visualization/blob/master/data/MyData.csv)
 
 ## Design
 
